@@ -1,0 +1,12 @@
+D:\software\vsproject\HotleConvenience\HotleConvenience.Dao\bin\Debug\netcoreapp2.0\HotleConvenience.Dao.deps.json
+D:\software\vsproject\HotleConvenience\HotleConvenience.Dao\bin\Debug\netcoreapp2.0\HotleConvenience.Dao.dll
+D:\software\vsproject\HotleConvenience\HotleConvenience.Dao\bin\Debug\netcoreapp2.0\HotleConvenience.Dao.pdb
+D:\software\vsproject\HotleConvenience\HotleConvenience.Dao\bin\Debug\netcoreapp2.0\Microsoft.EntityFrameworkCore.dll
+D:\software\vsproject\HotleConvenience\HotleConvenience.Dao\bin\Debug\netcoreapp2.0\Microsoft.EntityFrameworkCore.xml
+D:\software\vsproject\HotleConvenience\HotleConvenience.Dao\obj\Debug\netcoreapp2.0\HotleConvenience.Dao.csprojResolveAssemblyReference.cache
+D:\software\vsproject\HotleConvenience\HotleConvenience.Dao\obj\Debug\netcoreapp2.0\HotleConvenience.Dao.csproj.CoreCompileInputs.cache
+D:\software\vsproject\HotleConvenience\HotleConvenience.Dao\obj\Debug\netcoreapp2.0\HotleConvenience.Dao.AssemblyInfoInputs.cache
+D:\software\vsproject\HotleConvenience\HotleConvenience.Dao\obj\Debug\netcoreapp2.0\HotleConvenience.Dao.AssemblyInfo.cs
+D:\software\vsproject\HotleConvenience\HotleConvenience.Dao\obj\Debug\netcoreapp2.0\HotleConvenience.Dao.csproj.CopyComplete
+D:\software\vsproject\HotleConvenience\HotleConvenience.Dao\obj\Debug\netcoreapp2.0\HotleConvenience.Dao.dll
+D:\software\vsproject\HotleConvenience\HotleConvenience.Dao\obj\Debug\netcoreapp2.0\HotleConvenience.Dao.pdb
