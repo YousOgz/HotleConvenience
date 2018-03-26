@@ -1,0 +1,80 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.0",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {
+      "HotleConvenience.Lib/1.0.0": {
+        "dependencies": {
+          "HotleConvenience.Model": "1.0.0",
+          "Microsoft.Extensions.Caching.Abstractions": "2.0.1.0",
+          "Microsoft.Extensions.Options": "2.0.1.0",
+          "Microsoft.Extensions.Primitives": "2.0.0.0",
+          "Newtonsoft.Json": "10.0.0.0"
+        },
+        "runtime": {
+          "HotleConvenience.Lib.dll": {}
+        }
+      },
+      "HotleConvenience.Model/1.0.0": {
+        "runtime": {
+          "HotleConvenience.Model.dll": {}
+        }
+      },
+      "Microsoft.Extensions.Caching.Abstractions/2.0.1.0": {
+        "runtime": {
+          "Microsoft.Extensions.Caching.Abstractions.dll": {}
+        }
+      },
+      "Microsoft.Extensions.Options/2.0.1.0": {
+        "runtime": {
+          "Microsoft.Extensions.Options.dll": {}
+        }
+      },
+      "Microsoft.Extensions.Primitives/2.0.0.0": {
+        "runtime": {
+          "Microsoft.Extensions.Primitives.dll": {}
+        }
+      },
+      "Newtonsoft.Json/10.0.0.0": {
+        "runtime": {
+          "Newtonsoft.Json.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HotleConvenience.Lib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HotleConvenience.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Extensions.Caching.Abstractions/2.0.1.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Extensions.Options/2.0.1.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Extensions.Primitives/2.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Newtonsoft.Json/10.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

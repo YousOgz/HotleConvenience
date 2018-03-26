@@ -1,0 +1,9 @@
+D:\software\vsproject\HotleConvenience\HotleConvenience.Model\bin\Debug\netcoreapp2.0\HotleConvenience.Model.deps.json
+D:\software\vsproject\HotleConvenience\HotleConvenience.Model\bin\Debug\netcoreapp2.0\HotleConvenience.Model.dll
+D:\software\vsproject\HotleConvenience\HotleConvenience.Model\bin\Debug\netcoreapp2.0\HotleConvenience.Model.pdb
+D:\software\vsproject\HotleConvenience\HotleConvenience.Model\obj\Debug\netcoreapp2.0\HotleConvenience.Model.csprojResolveAssemblyReference.cache
+D:\software\vsproject\HotleConvenience\HotleConvenience.Model\obj\Debug\netcoreapp2.0\HotleConvenience.Model.csproj.CoreCompileInputs.cache
+D:\software\vsproject\HotleConvenience\HotleConvenience.Model\obj\Debug\netcoreapp2.0\HotleConvenience.Model.AssemblyInfoInputs.cache
+D:\software\vsproject\HotleConvenience\HotleConvenience.Model\obj\Debug\netcoreapp2.0\HotleConvenience.Model.AssemblyInfo.cs
+D:\software\vsproject\HotleConvenience\HotleConvenience.Model\obj\Debug\netcoreapp2.0\HotleConvenience.Model.dll
+D:\software\vsproject\HotleConvenience\HotleConvenience.Model\obj\Debug\netcoreapp2.0\HotleConvenience.Model.pdb

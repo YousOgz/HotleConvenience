@@ -1,0 +1,93 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.0",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {
+      "HotleConvenience.Infrastructure/1.0.0": {
+        "dependencies": {
+          "HotleConvenience.Lib": "1.0.0",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "2.0.0.0",
+          "Microsoft.Extensions.Options": "2.0.1.0",
+          "Microsoft.IdentityModel.Tokens": "5.1.4.0",
+          "System.IdentityModel.Tokens.Jwt": "5.1.4.0"
+        },
+        "runtime": {
+          "HotleConvenience.Infrastructure.dll": {}
+        }
+      },
+      "HotleConvenience.Lib/1.0.0": {
+        "dependencies": {
+          "HotleConvenience.Model": "1.0.0"
+        },
+        "runtime": {
+          "HotleConvenience.Lib.dll": {}
+        }
+      },
+      "HotleConvenience.Model/1.0.0": {
+        "runtime": {
+          "HotleConvenience.Model.dll": {}
+        }
+      },
+      "Microsoft.Extensions.DependencyInjection.Abstractions/2.0.0.0": {
+        "runtime": {
+          "Microsoft.Extensions.DependencyInjection.Abstractions.dll": {}
+        }
+      },
+      "Microsoft.Extensions.Options/2.0.1.0": {
+        "runtime": {
+          "Microsoft.Extensions.Options.dll": {}
+        }
+      },
+      "Microsoft.IdentityModel.Tokens/5.1.4.0": {
+        "runtime": {
+          "Microsoft.IdentityModel.Tokens.dll": {}
+        }
+      },
+      "System.IdentityModel.Tokens.Jwt/5.1.4.0": {
+        "runtime": {
+          "System.IdentityModel.Tokens.Jwt.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HotleConvenience.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HotleConvenience.Lib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HotleConvenience.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Extensions.DependencyInjection.Abstractions/2.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Extensions.Options/2.0.1.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.IdentityModel.Tokens/5.1.4.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "System.IdentityModel.Tokens.Jwt/5.1.4.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
